@@ -3,7 +3,7 @@ from src.classifier import classify_phishing
 from src.report_generator import generate_report
 
 sample_email = """
-URGENT: Verify your bank account now!
+URGENT: Verify your bank account now.
 Click here: http://192.168.1.10/login
 """
 
