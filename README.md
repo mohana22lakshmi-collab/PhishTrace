@@ -1,14 +1,15 @@
-# AI-Based Phishing & Social Engineering Evidence Analyzer
+# PhishTrace
+Rule-Based Phishing Email Forensic Analyzer
 
 # Project Overview
 
 This project is a Python-based cyber forensic tool designed to analyze suspicious email content and identify phishing or social engineering attacks.
-It extracts digital evidence from emails and applies explainable AI logic to classify the message as **Phishing** or **Legitimate**.
+It extracts digital evidence from emails and applies rule based analysis to classify the message as **Phishing** or **Legitimate**.
 
 # Key Features
 
 * Email evidence extraction (URLs, IP addresses, keywords)
-* Explainable AI-based phishing classification
+* Rule based phishing classification
 * Forensic-style report generation
 * Modular and scalable Python project structure
 
@@ -16,7 +17,7 @@ It extracts digital evidence from emails and applies explainable AI logic to cla
 
 * Python 3
 * Regex-based feature extraction
-* Rule-based AI classification
+* Rule-based classification
 * File-based forensic reporting
 
 # How to Run
